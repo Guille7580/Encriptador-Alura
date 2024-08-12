@@ -20,9 +20,4 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 <img src="https://img.icons8.com/color/344/css3.png" alt="CSS" width="70"/>
 <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="70"/>
 
-**Visualización**
-
-<img src="https://github.com/Malejandrapin/EncriptadorTexto/blob/main/imagenes/responsive.PNG?raw=true" alt="inicio" width="500" />
-
----
 
