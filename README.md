@@ -23,5 +23,5 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 **Visualización**
 
 <img src="https://github.com/Guille7580/Encriptador-Alura/blob/main/imagenes/Terminado.png?raw=true" alt="inicio" width="500" />
-
+<img src="https://github.com/Guille7580/Encriptador-Alura/blob/main/imagenes/Terminadoresponsi.png?raw=true" alt="inicio" width="500" />
 ---
